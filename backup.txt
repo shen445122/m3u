@@ -1,0 +1,141 @@
+源
+https://m3u.52sf.ga/JMSTV-PHP.m3u 
+https://raw.githubusercontent.com/gjwj666/jichang/main/chuanmei.m3u 
+https://raw.githubusercontent.com/vamoschuck/TV/main/M3U
+https://img.whalenas.com:283/file/iptv.m3u IPTV
+https://img.whalenas.com:283/file/huya.m3u 虎牙
+https://img.whalenas.com:283/file/iqiyi.m3u 爱奇艺
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/iptv.m3u
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/douyu-realtime.m3u 斗鱼直播
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/huya-realtime.m3u 虎牙直播
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/bilibili-realtime.m3u bilibili直播
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/egame-realtime.m3u 企鹅电竞直播
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/cc-realtime.m3u 网易CC直播
+https://cdn.jsdelivr.net/gh/Kimentanm/aptv/m3u/huya.m3u 虎牙影视
+http://www.test.com/podcast.m3u 郭德纲专题
+http://52bsj.vip:81/api/v3/file/get/79119/ZB.txt?sign=iChDXDC7WJRTp7yWAyVdbY3si5sJ5eFwEgaR35YQGSo%3D%3A0 
+https://zzzzz.tv/tv/tv.txt 
+https://zzzzz.tv/tv/live.txt 
+https://gitee.com/amygotv/tvsource/raw/master/TVLives 
+https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt 
+http://111.67.196.181/mtvzb.txt 
+https://sourl.cn/y4kFym 
+https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/0903zh.txt 
+https://tvsee.github.io/diyp/tv.txt 
+https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808384.m3u 
+https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u 
+
+http://adultiptv.net/vods.m3u8
+http://adultiptv.net/lists/all.m3u
+
+https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt
+https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
+https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
+https://jihulab.com/owen2000wy/owentv/-/raw/main/HP20230319.m3u
+https://files.catbox.moe/pffw1w.m3u
+
+备份：
+IPTV：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+斗鱼直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/douyu-realtime.m3u
+虎牙直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/huya-realtime.m3u
+bilibili直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/bilibili-realtime.m3u
+企鹅电竞直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/egame-realtime.m3u
+网易CC直播：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/cc-realtime.m3u
+虎牙影视：https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/huya.m3u
+
+科普站：
+https://www.right.com.cn/forum/forum-182-1.html
+https://adultiptv.net
+https://www.yibababa.com/vod
+https://m3u.vodtv.cn/
+
+源站
+https://github.com/fanmingming/live
+https://github.com/iptv-org/iptv﻿
+https://github.com/tansuotv/IPTVindex/tree/main/tv
+https://github.com/wcb1969/iptv
+https://github.com/22705/IPTV-2/tree/main
+https://github.com/Ftindy/IPTV-URL
+https://github.com/biancangming/wtv 
+https://github.com/tansuotv/tansuotv/tree/main/zhiboyuan 
+https://github.com/imDazui/Tvlist-awesome-m3u-m3u8
+https://github.com/youshandefeiyang/LiveRedirect
+https://github.com/fanmingming/live
+https://github.com/YueChan/Live/tree/main
+https://github.com/m3u8playlist/dp/tree/master
+https://github.com/Ftindy/IPTV-URL
+https://adultiptv.net/free-adult-iptv/
+
+源搜索
+http://tonkiang.us/ IPTV直播源搜索引擎
+https://jmstv.github.io/ 卷毛鼠公益项目广播电视直播源
+https://www.foodieguide.com/iptvsearch/  IPTV直播源搜索引擎
+
+m3u8地址集合（天美传媒、果冻传媒）
+果冻传媒34：https://video2.51daao.com/btt1/2021/01/20210112/a1pA2jdF/index.m3u8
+果冻传媒33：https://video2.51daao.com/btt1/2021/01/20210112/t6Jq3qPP/index.m3u8
+果冻传媒32：https://video2.51daao.com/btt1/2021/01/20210112/E5gmsbU5/index.m3u8
+果冻传媒31：https://video2.51daao.com/btt1/2021/01/20210112/8vPTBXXb/index.m3u8
+果冻传媒30：https://video2.51daao.com/btt1/2021/01/20210112/JH1hBFGL/index.m3u8
+果冻传媒29：https://video2.51daao.com/btt1/2021/01/20210112/6iz3rsSN/index.m3u8
+果冻传媒28：https://video2.51daao.com/btt1/2021/01/20210112/o6iE0JfL/index.m3u8
+果冻传媒27：https://video2.51daao.com/btt1/2021/01/20210112/LBpM9asV/index.m3u8
+果冻传媒26：https://video2.51daao.com/btt1/2021/01/20210116/RIYuMNX6/index.m3u8
+果冻传媒25：https://video2.51daao.com/btt1/2021/01/20210120/nK2NjTQE/index.m3u8
+果冻传媒24：https://video2.51daao.com/btt1/2021/01/20210120/Mi91NxkJ/index.m3u8
+果冻传媒23：https://video2.51daao.com/btt1/2021/01/20210120/rM4SLnCz/index.m3u8
+果冻传媒22：https://video2.51daao.com/btt1/2021/01/20210120/2dWWoQtk/index.m3u8
+果冻传媒21：https://video2.51daao.com/btt1/2021/01/20210120/vgWAYAZo/index.m3u8
+果冻传媒20：https://video2.51daao.com/btt1/2021/01/20210127/hP1ODvoI/index.m3u8
+果冻传媒19：https://video2.51daao.com/btt1/2021/01/20210127/e4nE3H52/index.m3u8
+果冻传媒18：https://video2.51daao.com/btt1/2021/01/20210128/uAjfPHbd/index.m3u8
+果冻传媒17：https://video2.51daao.com/btt1/2021/01/20210128/yvyxolSA/index.m3u8
+果冻传媒16：https://video2.51daao.com/btt1/2021/01/20210128/GpjqOwp7/index.m3u8
+果冻传媒15：https://video2.51daao.com/btt1/2021/01/20210129/02gDjV83/index.m3u8
+果冻传媒14：https://video2.51daao.com/btt1/2021/01/20210130/ujDdta8s/index.m3u8
+果冻传媒13：https://video2.51daao.com/btt1/2021/02/20210207/wNtvObEg/index.m3u8
+果冻传媒12：https://video2.51daao.com/btt1/2021/02/20210207/hwYZiYZS/index.m3u8
+果冻传媒11：https://video2.51daao.com/btt1/2021/02/20210207/lX1stcnL/index.m3u8
+果冻传媒10：https://video2.51daao.com/btt1/2021/02/20210207/4sqrcOu9/index.m3u8
+果冻传媒09：https://video2.51daao.com/btt1/2021/02/20210212/rNSmBLwV/index.m3u8
+果冻传媒08：https://video2.51daao.com/btt1/2021/02/20210212/gH5O6gOq/index.m3u8
+果冻传媒07：https://video2.51daao.com/btt1/2021/02/20210222/hqS0Umq4/index.m3u8
+果冻传媒06：https://video2.51daao.com/btt1/2021/02/20210227/DzukV364/index.m3u8
+果冻传媒05：https://video2.51daao.com/btt1/2021/03/20210305/SuAEPEkH/index.m3u8
+果冻传媒04：https://video2.51daao.com/btt1/2021/03/20210305/DkRXRNsh/index.m3u8
+果冻传媒03：https://video2.51daao.com/btt1/2021/03/20210309/WQ1u7YIC/index.m3u8
+果冻传媒02：https://video2.51daao.com/btt1/2021/03/20210309/rwTpu16k/index.m3u8
+果冻传媒01：https://video2.51daao.com/btt1/2021/03/20210315/nqgw0eJK/index.m3u8
+天美传媒29：https://video2.51daao.com/btt1/2021/01/20210131/OB3WS438/index.m3u8
+天美传媒28：https://video2.51daao.com/btt1/2021/01/20210131/7haGYFAa/index.m3u8
+天美传媒27：https://video2.51daao.com/btt1/2021/01/20210131/BQY1vCJ4/index.m3u8
+天美传媒26：https://video2.51daao.com/btt1/2021/01/20210131/zDEwqelh/index.m3u8
+天美传媒25：https://video2.51daao.com/btt1/2021/01/20210131/eKSd5QE7/index.m3u8
+天美传媒23：https://video2.51daao.com/btt1/2021/01/20210131/e4CQTt8H/index.m3u8
+天美传媒22：https://video2.51daao.com/btt1/2021/01/20210131/x184r1n4/index.m3u8
+天美传媒21：https://video2.51daao.com/btt1/2021/02/20210201/nDsIoul4/index.m3u8
+天美传媒20：https://video2.51daao.com/btt1/2021/02/20210201/2y1YjwEL/index.m3u8
+天美传媒19：https://video2.51daao.com/btt1/2021/02/20210201/ozNmkdR3/index.m3u8
+天美传媒18：https://video2.51daao.com/btt1/2021/02/20210201/YcHjiZ7t/index.m3u8
+天美传媒17：https://video2.51daao.com/btt1/2021/02/20210201/mzt2nJRT/index.m3u8
+天美传媒16：https://video2.51daao.com/btt1/2021/02/20210201/A0yxpEqY/index.m3u8
+天美传媒15：https://video2.51daao.com/btt1/2021/02/20210201/Xx9Zbgkd/index.m3u8
+天美传媒14：https://video2.51daao.com/btt1/2021/02/20210201/LHJiAJ2L/index.m3u8
+天美传媒13：https://video2.51daao.com/btt1/2021/02/20210201/T6uGyIgj/index.m3u8
+天美传媒12：https://video2.51daao.com/btt1/2021/02/20210201/jLKNXthe/index.m3u8
+天美传媒11：https://video2.51daao.com/btt1/2021/02/20210202/mEMG07WV/index.m3u8
+天美传媒10：https://video2.51daao.com/btt1/2021/02/20210202/QmSmqiRr/index.m3u8
+天美传媒09：https://video2.51daao.com/btt1/2021/02/20210202/XBtcPy7V/index.m3u8
+天美传媒08：https://video2.51daao.com/btt1/2021/02/20210202/lwHctu4K/index.m3u8
+天美传媒07：https://video2.51daao.com/btt1/2021/02/20210202/9ZAJXaA9/index.m3u8
+天美传媒06：https://video2.51daao.com/btt1/2021/02/20210202/26nESk76/index.m3u8
+天美传媒05：https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
+天美传媒04：https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
+天美传媒03：https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
+天美传媒02：https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
+天美传媒01：https://video2.51daao.com/btt1/2021/03/20210313/NT9t3UiF/index.m3u8
+天美传媒05：https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
+天美传媒04：https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
+天美传媒03：https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
+天美传媒02：https://video2.51daao.com/btt1/2021/03/20210313/osc4h1UX/index.m3u8
+天美传媒01：https://video2.51daao.com/btt1/2021/03/20210313/NT9t3UiF/index.m3u8
