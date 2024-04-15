@@ -28,6 +28,9 @@ https://raw.githubusercontent.com/cai23511/yex/master/TVlist/20210808226.m3u
 http://adultiptv.net/vods.m3u8
 http://adultiptv.net/lists/all.m3u
 
+https://iptv.228088.xyz/cn.m3u
+https://cdn.jsdelivr.net/gh/shidahuilang/shuyuan@shuyuan/iptv.txt
+
 https://raw.githubusercontent.com/m3u8playlist/dp/master/iplayr/600.txt
 https://gitcode.net/ygbh66/test/-/raw/master/bhzb.txt
 https://gitcode.net/ygbh66/test/-/raw/master/tsys.txt
@@ -51,7 +54,7 @@ https://m3u.vodtv.cn/
 
 源站
 https://github.com/fanmingming/live
-https://github.com/iptv-org/iptv﻿
+https://github.com/iptv-org/iptv
 https://github.com/tansuotv/IPTVindex/tree/main/tv
 https://github.com/wcb1969/iptv
 https://github.com/22705/IPTV-2/tree/main
